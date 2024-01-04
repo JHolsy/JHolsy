@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin Holsinger
+- 👋 Hi, I’m Justin
 - 🌱 I’m currently studying Computer Science and actively learning Python and Java
 
 <!---
