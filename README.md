@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin
-- 🌱 I’m currently studying Computer Science and actively learning Python and Java
+- 🌱 I’m currently studying Computer Science and actively learning Java
 
 <!---
 JHolsy/JHolsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
